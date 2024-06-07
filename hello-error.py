@@ -1,2 +1,2 @@
 print("Hello, World!")
-raise ValueError('Wrong world :('
+raise ValueError('Wrong world :(')
